@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source AI projects and data analysis tools.
 - 📫 You can reach me via email at mohammadebad1@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love video games and have a collection of over 100 games!
+- ⚡ Fun fact: I love video games and have a collection of over 100s of video games!
 
 <!---
 smebad/smebad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
