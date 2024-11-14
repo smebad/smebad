@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ebad
 - 👀 I’m interested in artificial intelligence, open-source projects, and data science.
-- 🌱 I’m currently learning and implementing  advanced machine learning techniques.
+- 🌱 I’m currently learning and implementing  advanced machine learning techniques on different projects.
 - 💞️ I’m looking to collaborate on open-source AI projects and data analysis tools.
 - 📫 You can reach me via email at mohammadebad1@hotmail.com
 - 😄 Pronouns: He/Him
