@@ -30,16 +30,16 @@ I’m always excited to contribute to **open-source projects** and learn from th
 
 ## 🔨 Tech Stack
 Here are some tools and technologies I frequently use:
-- **Languages**: Python, SQL, Markdown  
+- **Languages**: Python, SQL, Markdown.
 - **Libraries & Frameworks**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Pytorch and more.  
-- **Tools**: Jupyter Notebook, Streamlit, VS Code, Git, GitHub  
-- **Concepts**: Neural Networks, Machine Learning, Data Analysis, EDA, Data Visualization, Model Optimization, DSA  
+- **Tools**: Jupyter Notebook, Streamlit, VS Code, Git, GitHub and more.  
+- **Concepts**: Neural Networks, Machine Learning, Data Analysis, EDA, Data Visualization, Model Optimization, DSA and more. 
 
 ---
 
 ## 🌟 Current Focus
 I’m currently:
-1. Learning **advanced machine learning techniques** and **neural networks**.
+1. Learning **advanced machine learning techniques** and **neural networks** you can my detailed learning progress on my linkedin profile.
 2. Practicing **DSA** concepts and documenting my progress on [GitHub](https://github.com/smebad/DSA).  
 
 ---
