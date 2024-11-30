@@ -1,6 +1,6 @@
 # Hi there, I'm Ebad! 👋
 
-Welcome to my GitHub profile! I’m a passionate **Machine Learning Enthusiast**, **Data Scientist**, and a learner of **AI technologies**. I love solving real-world problems using data and creating meaningful projects that showcase my journey in the field of tech.
+Welcome to my GitHub profile! I’m a passionate **Machine Learning Enthusiast**, **Data Scientis Enthusiast**, and a learner of **AI technologies**. I love solving real-world problems using data and creating meaningful projects that showcase my journey in the field of tech.
 
 ---
 
@@ -31,9 +31,9 @@ I’m always excited to contribute to **open-source projects** and learn from th
 ## 🔨 Tech Stack
 Here are some tools and technologies I frequently use:
 - **Languages**: Python, SQL, Markdown  
-- **Libraries & Frameworks**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Libraries & Frameworks**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Pytorch and more.  
 - **Tools**: Jupyter Notebook, Streamlit, VS Code, Git, GitHub  
-- **Concepts**: Neural Networks, Data Visualization, Model Optimization, DSA  
+- **Concepts**: Neural Networks, Machine Learning, Data Analysis, EDA, Data Visualization, Model Optimization, DSA  
 
 ---
 
@@ -44,16 +44,9 @@ I’m currently:
 
 ---
 
-## 📈 GitHub Stats
-![Syed Muhammad Ebad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMuhammadEbad&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadEbad&layout=compact&theme=radical)](https://github.com/SyedMuhammadEbad)
-
----
-
 ## 🌐 Connect with Me
 - 📫 Email: [mohammadebad1@hotmail.com](mailto:mohammadebad1@hotmail.com)
-- 💼 LinkedIn: [Syed Muhammad Ebad]([https://www.linkedin.com/in/](https://www.linkedin.com/in/syed-ebad-4a20aa322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA8oRggTAR%2FWx1no9qoEXAg%3D%3D))
+- 💼 LinkedIn: [Syed Muhammad Ebad](https://www.linkedin.com/in/syed-ebad-4a20aa322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA8oRggTAR%2FWx1no9qoEXAg%3D%3D)
 - 📝 Portfolio: *Coming Soon!*
 - 🏅 Kaggle: [Syed Muhammad Ebad](https://www.kaggle.com/syedmuhammadebad)
 ---
