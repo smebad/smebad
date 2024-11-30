@@ -18,7 +18,7 @@ I specialize in building models for prediction, clustering, classification, and 
 - **Password Strength Classification** using RandomForestClassifier.
 - **Payments Fraud Detection** with feature engineering.
 - **Medical Cost Insurance Analysis** with Linear Regression and XGBoost.
-- [Check out my repositories for more!](https://github.com/)
+- [Check out my repositories for more!](https://github.com/smebad?tab=repositories)
 
 ### 💻 App Development
 I’m on a journey to master **Streamlit** and other tools for building intuitive web apps. One of my goals is to create apps that automate workflows and provide real-time insights.
