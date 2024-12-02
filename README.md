@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I’m a passionate **Machine Learning Enthusiast**
 ---
 
 ## 💡 About Me
-- 🎓 Aspiring Computer Scientist.
-- 🔍 Currently diving deep into **Neural Networks**, **Data Structures and Algorithms (DSA)**, and **Cloud Computing**.
-- 🎯 Goal: Contribute to impactful AI projects.
-- 🎮 Gamer at heart with a collection of 100+ games.  
-
+- 🎓 **From SAP solutions to Machine Learning**, my journey has been fueled by a deep fascination with the rapid growth and advancements in technology.  
+- 🔍 Currently diving into **Neural Networks**, **Data Structures and Algorithms (DSA)**, and **Cloud Computing**.  
+- 🎯 Passionate about contributing to impactful AI projects, with a portfolio that includes **Kaggle competitions** and work on cutting-edge **LLMs**.  
+- 🎮 Gamer at heart with a collection of over 100 games—finding inspiration in every challenge, real or virtual!  
+- 🌱 Actively exploring **open-source collaborations** to create and innovate.  
 ---
 
 ## 🚀 What I Do
