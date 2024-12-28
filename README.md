@@ -1,6 +1,6 @@
 # Hi there, I'm Ebad! 👋
 
-Welcome to my GitHub profile! I’m a passionate **Machine Learning**, **Data Science** enthusiast, and a learner of **AI technologies**. I love solving real-world problems using data and creating meaningful projects that showcase my journey in the field of tech
+Welcome to my GitHub profile! I’m a passionate **Machine Learning**, **Data Science** enthusiast, and a learner of **AI technologies**. I love solving real-world problems using data and creating meaningful projects that showcase my journey in the field of tech.
 
 ---
 
