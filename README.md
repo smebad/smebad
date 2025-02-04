@@ -20,8 +20,8 @@ I specialize in building models for prediction, clustering, classification, and 
 - **Medical Cost Insurance Analysis** with Linear Regression and XGBoost.
 - [Check out my repositories for more!](https://github.com/smebad?tab=repositories)
 
-### 💻 App Development
-I’m on a journey to master **Streamlit** and other tools for building intuitive web apps. One of my goals is to create apps that automate workflows and provide real-time insights.
+### 💻 Ai App Development
+I’m on a journey to be updated in the world of AI and master **LLMs | NLP | Ai Agents | Frameworks** and other tools for building intuitive web apps.
 
 ### 🌍 Open Source Collaboration
 I’m always excited to contribute to **open-source projects** and learn from the community. Collaboration and knowledge-sharing drive innovation!
@@ -47,7 +47,6 @@ I’m currently:
 ## 🌐 Connect with Me
 - 📫 Email: [mohammadebad1@hotmail.com](mailto:mohammadebad1@hotmail.com)
 - 💼 LinkedIn: [Syed Muhammad Ebad](https://www.linkedin.com/in/syed-ebad-4a20aa322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA8oRggTAR%2FWx1no9qoEXAg%3D%3D)
-- 📝 Portfolio: *Coming Soon!*
 - 🏅 Kaggle: [Syed Muhammad Ebad](https://www.kaggle.com/syedmuhammadebad)
 ---
 
