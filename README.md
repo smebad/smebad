@@ -39,7 +39,7 @@ Here are some tools and technologies I frequently use:
 
 ## 🌟 Current Focus
 I’m currently:
-1. Learning **advanced machine learning techniques** and **neural networks** you can see my detailed learning progress on my linkedin profile.
+1. Learning **advanced machine learning techniques** and **neural networks** you can see my detailed learning progress in my repositories.
 2. Practicing **DSA** concepts and documenting my progress on [GitHub](https://github.com/smebad/DSA).  
 
 ---
