@@ -30,7 +30,7 @@ I’m always excited to contribute to **open-source projects** and learn from th
 
 ## 🔨 Tech Stack
 Here are some tools and technologies I frequently use:
-- **Languages**: Python, SQL, Markdown.
+- **Languages**: Python, SQL, Markdown, Javascript, CSS, HTML.
 - **Libraries & Frameworks**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Pytorch and more.  
 - **Tools**: Jupyter Notebook, Streamlit, VS Code, Git, GitHub and more.  
 - **Concepts**: Neural Networks, Machine Learning, Data Analysis, EDA, Data Visualization, Model Optimization, DSA and more. 
