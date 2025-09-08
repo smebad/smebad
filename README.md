@@ -1,65 +1,48 @@
 # Hi there, I'm Ebad! 👋
 
-Welcome to my GitHub profile! I’m a passionate **Machine Learning**, **Data Science** enthusiast, and a learner of **AI technologies**. I love solving real-world problems using data and creating meaningful projects that showcase my journey in the field of tech.
+Welcome to my GitHub! I’m an **aspiring Machine Learning Engineer** passionate about **AI, NLP, and GenAI**. I love building **end-to-end ML solutions**, experimenting with LLMs, and turning ideas into real-world projects.
 
----
+## 🚀 About Me
 
-## 💡 About Me
-- 🎓 **From SAP solutions to Machine Learning**, my journey has been fueled by a deep fascination with the rapid growth and advancements in technology.  
-- 🔍 Currently diving into **Neural Networks**, **Data Structures and Algorithms (DSA)**, and **Cloud Computing**.  
-- 🎯 Passionate about contributing to impactful AI projects, with a portfolio that includes **Kaggle competitions** and work on cutting-edge **LLMs**.  
-- 🎮 Gamer at heart with a collection of over 100 games—finding inspiration in every challenge, real or virtual! Playstation Id: evilspirit1996
-- 🌱 Actively exploring **open-source collaborations** to create and innovate.  
----
+* 🎓 Transitioned from **SAP solutions** to **AI/ML engineering**, driven by curiosity for problem-solving.
+* 🧠 Currently focused on **Transformers, RAG-powered apps, and Neural Networks**.
+* 🎯 Building projects that combine **practical applications with deep technical learning**.
+* 🎮 Gamer at heart (100+ titles owned) — I see debugging and boss fights as two sides of the same challenge. ⚔️
 
-## 🚀 What I Do
-### 🧠 Machine Learning & Data Science
-I specialize in building models for prediction, clustering, classification, and analysis. Some of my completed projects include:
-- **Password Strength Classification** using RandomForestClassifier.
-- **Payments Fraud Detection** with feature engineering.
-- **Medical Cost Insurance Analysis** with Linear Regression and XGBoost.
-- [Check out my repositories for more!](https://github.com/smebad?tab=repositories)
+## 🔥 Highlight Projects
 
-### 💻 Ai App Development
-I’m on a journey to be updated in the world of AI and master **LLMs | NLP | Ai Agents | Frameworks** and other tools for building intuitive web apps.
+* 🤖 **PregniSense – Proactive Pregnancy Risk Chatbot**
+  Built with **LlamaIndex + Gemini**, deployed on **Streamlit Cloud**. Proactively asks health questions, retrieves WHO guidelines, and classifies risks (Low/Med/High).
+  🔗 [View Project](https://github.com/smebad/PregniSense)
 
-### 🌍 Open Source Collaboration
-I’m always excited to contribute to **open-source projects** and learn from the community. Collaboration and knowledge-sharing drive innovation!
+* 🧩 **Transformer – From Scratch in PyTorch**
+  Implemented the original *“Attention Is All You Need”* paper from scratch. Trained on the OPUS Books dataset using a custom tokenizer.
+  🔗 [View Project](https://github.com/smebad/transformer-from-scratch)
 
----
+* 📊 **Machine Learning Algorithms – From Scratch**
+  Rebuilt ML algorithms like **Logistic Regression, Naive Bayes, KNN** in Python + NumPy to master their core logic.
+  🔗 [View Project](https://github.com/smebad/Machine-Learning-Algorithms-From-Scratch)
 
-## 🔨 Tech Stack
-Here are some tools and technologies I frequently use:
-- **Languages**: Python, SQL, Markdown, Javascript, CSS, HTML.
-- **Libraries & Frameworks**: TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Pytorch and more.  
-- **Tools**: Jupyter Notebook, Streamlit, VS Code, Git, GitHub and more.  
-- **Concepts**: Neural Networks, Machine Learning, Data Analysis, EDA, Data Visualization, Model Optimization, DSA and more. 
+## 🛠️ Tech Stack
 
----
+* **Languages:** Python, JavaScript, SQL, HTML/CSS
+* **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Keras, Hugging Face, LangChain
+* **Tools:** Streamlit, FastAPI, Git, Docker, Jupyter Notebook
+* **Concepts:** Transformers, RAG, Prompt Engineering, CNNs, RNNs, EDA, Feature Engineering
 
 ## 🌟 Current Focus
-I’m currently:
-1. Learning **advanced machine learning techniques** and **neural networks** you can see my detailed learning progress in my repositories.
-2. Practicing **DSA** concepts and documenting my progress on [GitHub](https://github.com/smebad/DSA).  
 
----
+* 📚 Expanding expertise in **GenAI, AI Agents, and Cloud-based AI apps**
+* 🔍 Practicing **Data Structures & Algorithms (DSA)** to strengthen problem-solving skills
+* 🤝 Exploring **open-source contributions** in AI/ML
 
 ## 🌐 Connect with Me
-- 📫 Email: [mohammadebad1@hotmail.com](mailto:mohammadebad1@hotmail.com)
-- 💼 LinkedIn: [Syed Muhammad Ebad](https://www.linkedin.com/in/syed-ebad-4a20aa322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA8oRggTAR%2FWx1no9qoEXAg%3D%3D)
-- 🏅 Kaggle: [Syed Muhammad Ebad](https://www.kaggle.com/syedmuhammadebad)
----
 
-## 🎯 Fun Fact
-I sometimes forget equations from Linear Algebra, Calculus, and Statistics but always find a way to implement their concepts in my projects! 🚀
+* 📫 Email: [mohammadebad1@hotmail.com](mailto:mohammadebad1@hotmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/syed-ebad-ml)
+* 🏅 [Kaggle](https://www.kaggle.com/)
+* 💻 [GitHub](https://github.com/smebad)
 
 ---
 
-### ⭐ Let’s collaborate to build something amazing together!
-Feel free to explore my repositories, leave a star ⭐, or reach out to me for collaborations.
-
-
-<!---
-smebad/smebad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *Always building, always learning — let’s collaborate to create impactful AI projects!*
