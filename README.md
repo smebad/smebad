@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m an **aspiring Machine Learning Engineer** passionate
 * 🎓 Transitioned from **SAP solutions** to **AI/ML engineering**, driven by curiosity for problem-solving.
 * 🧠 Currently focused on **Transformers, RAG-powered apps, and Neural Networks**.
 * 🎯 Building projects that combine **practical applications with deep technical learning**.
-* 🎮 Gamer at heart (100+ titles owned) — I see debugging and boss fights as two sides of the same challenge. ⚔️
+* 🎮 Gamer at heart. I see debugging and boss fights as two sides of the same challenge. ⚔️
 
 ## 🔥 Highlight Projects
 
