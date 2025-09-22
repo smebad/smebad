@@ -1,6 +1,6 @@
 # Hi there, I'm Ebad! 👋
 
-Welcome to my GitHub! I’m an **aspiring Machine Learning Engineer** passionate about **AI, NLP, and GenAI**. I love building **end-to-end ML solutions**, experimenting with LLMs, and turning ideas into real-world projects.
+Welcome to my GitHub! I’m an **aspiring Machine Learning Engineer (BSCS)** passionate about **AI, NLP, and GenAI**. I love building **end-to-end ML solutions**, experimenting with LLMs, and turning ideas into real-world projects.
 
 ## 🚀 About Me
 
