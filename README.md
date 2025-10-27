@@ -65,7 +65,7 @@
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en" alt="smebad" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark" alt="smebad" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
