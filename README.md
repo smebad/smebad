@@ -64,29 +64,29 @@
       <p style="margin:0;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact"
              alt="Top Languages"
-             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
       </p>
       <br>
       <p style="margin:0;">
         <img src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en"
              alt="GitHub Stats"
-             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
       </p>
       <br>
       <p style="margin:0;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark"
              alt="GitHub Streak"
-             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
       </p>
     </td>
     <td valign="top" align="right" style="width:340px; min-width:340px;">
       <p style="margin:0;">
         <img alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
-             style="display:block; margin:0 0 8px auto; width:320px; max-width:100%; height:auto; border:0;" />
+             style="display:block; margin:0 0 8px auto; width:360px; max-width:100%; height:auto; border:0;" />
       </p>
       <p style="margin:0;">
         <img alt="Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
-             style="display:block; margin:0 auto; width:320px; max-width:100%; height:auto; border:0;" />
+             style="display:block; margin:0 auto; width:360px; max-width:100%; height:auto; border:0;" />
       </p>
     </td>
   </tr>
