@@ -57,7 +57,7 @@
 </p>
 
 ## My GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vlc3Q0dGEwZXRjZHBnYm9qc3RxNGphMjZidHd0MGVibWIxdmdmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="80px">
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
 
@@ -65,7 +65,7 @@
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en" alt="smebad" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark" alt="smebad" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
