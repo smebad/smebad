@@ -11,7 +11,7 @@
 - 🔍 Practicing **Data Structures & Algorithms (DSA)** to strengthen problem-solving skills
 - 🤝 Exploring **open-source contributions** in AI/ML
 
-## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5aGdkNmN2c2o2bnNlbnl1NW44MGRoejh3NWEwaXB3azF1dTVhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width = 60px></picture> Highlight Projects
+## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5aGdkNmN2c2o2bnNlbnl1NW44MGRoejh3NWEwaXB3azF1dTVhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width = 60px></picture> Highlighted Projects
 
 <picture> <img align="right" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width = 300px></picture>
 - 🤖 **PregniSense – Proactive Pregnancy Risk Chatbot**
@@ -57,44 +57,43 @@
 </p>
 
 ## My GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vlc3Q0dGEwZXRjZHBnYm9qc3RxNGphMjZidHd0MGVibWIxdmdmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="80px" alt="stats gif">
+<div align="center" style="width:100%; display:flex; justify-content:center; margin-top:16px;">
+  <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:90%; max-width:900px; margin: 0 auto; margin-top:10px;">
+    <tr>
+      <td valign="top" align="left" style="padding-right:20px; width:360px;">
+        <p style="margin:0;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact"
+               alt="Top Languages"
+               style="display:block; width:420px; height:auto; border:0;" />
+        </p>
+        <p style="margin:0;">
+          <img src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en"
+               alt="GitHub Stats"
+               style="display:block; width:420px; height:auto; border:0;" />
+        </p>
+        <p style="margin:0;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark"
+               alt="GitHub Streak"
+               style="display:block; width:420px; height:auto; border:0;" />
+        </p>
+      </td>
+      <td valign="top" align="right" style="width:360px;">
+        <p style="margin:0;">
+          <img alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+               style="display:block; margin:0 auto 8px auto; width:420px; height:auto; border:0;" />
+        </p>
+        <p style="margin:0;">
+          <img alt="Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
+               style="display:block; margin:0 auto; width:420px; height:auto; border:0;" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;">
-  <tr>
-    <td valign="top" align="left" style="padding-right:16px; min-width:320px;">
-      <p style="margin:0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact"
-             alt="Top Languages"
-             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
-      </p>
-      <br>
-      <p style="margin:0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en"
-             alt="GitHub Stats"
-             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
-      </p>
-      <br>
-      <p style="margin:0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark"
-             alt="GitHub Streak"
-             style="display:block; width:360px; max-width:100%; height:auto; border:0;" />
-      </p>
-    </td>
-    <td valign="top" align="right" style="width:340px; min-width:340px;">
-      <p style="margin:0;">
-        <img alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
-             style="display:block; margin:0 0 8px auto; width:360px; max-width:100%; height:auto; border:0;" />
-      </p>
-      <p style="margin:0;">
-        <img alt="Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
-             style="display:block; margin:0 auto; width:360px; max-width:100%; height:auto; border:0;" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
 
-<br><br><br><br>
-
-## Social Profiles <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlmM3ZocXR4Z2tlMzByaGk3dnFxdGVuaXR4YjVpbzA5eDRtMjVnayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/gIkM6hiJfvSIIJCnKy/giphy.gif" width="80px">
+## Social Profiles <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlmM3ZocXR4Z2tlMzByaGk3dnFxdGVuaXR4YjVpbzA5eDRtMjVnayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/gIkM6hiJfvSIIJCnKy/giphy.gif" width="100px">
 <a href="https://pk.linkedin.com/in/syed-ebad-ml" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="smebad"/></a>
 <a href="https://www.facebook.com/mohammad.ebad.1/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="smebad"/></a>
 <a href="https://www.instagram.com/smebad1996/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="smebad"/></a>
