@@ -56,26 +56,49 @@
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
 </p>
 
-## My GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vlc3Q0dGEwZXRjZHBnYm9qc3RxNGphMjZidHd0MGVibWIxdmdmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="80px">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+## My GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vlc3Q0dGEwZXRjZHBnYm9qc3RxNGphMjZidHd0MGVibWIxdmdmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="80px" alt="stats gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact" alt="smebad" /></p>
-<br>
+<table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse;">
+  <tr>
+    <td valign="top" align="left" style="padding-right:16px; min-width:320px;">
+      <p style="margin:0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact"
+             alt="Top Languages"
+             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+      </p>
+      <br>
+      <p style="margin:0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en"
+             alt="GitHub Stats"
+             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+      </p>
+      <br>
+      <p style="margin:0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark"
+             alt="GitHub Streak"
+             style="display:block; width:320px; max-width:100%; height:auto; border:0;" />
+      </p>
+    </td>
+    <td valign="top" align="right" style="width:340px; min-width:340px;">
+      <p style="margin:0;">
+        <img alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+             style="display:block; margin:0 0 8px auto; width:320px; max-width:100%; height:auto; border:0;" />
+      </p>
+      <p style="margin:0;">
+        <img alt="Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
+             style="display:block; margin:0 auto; width:320px; max-width:100%; height:auto; border:0;" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en" alt="smebad" /></p>
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark" alt="smebad" /></p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Social Profiles <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlmM3ZocXR4Z2tlMzByaGk3dnFxdGVuaXR4YjVpbzA5eDRtMjVnayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/gIkM6hiJfvSIIJCnKy/giphy.gif" width="80px">
 <a href="https://pk.linkedin.com/in/syed-ebad-ml" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="smebad"/></a>
 <a href="https://www.facebook.com/mohammad.ebad.1/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="smebad"/></a>
 <a href="https://www.instagram.com/smebad1996/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="smebad"/></a>
 <a href="https://github.com/smebad" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="smebad"/></a>
-<a href="https://leetcode.com/u/smebad/" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="smebad"/></a>
-<a href="https://www.kaggle.com/syedmuhammadebad" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="smebad"/></a>
+<a href="https://leetcode.com/u/smebad/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="smebad"/></a>
+<a href="https://www.kaggle.com/syedmuhammadebad" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="smebad"/></a>
 <a href="https://psnprofiles.com/evilspirit1996" target="blank"><img align="center" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" alt="smebad"/></a>
