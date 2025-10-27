@@ -60,15 +60,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact" alt="smebad" /></p>
-<br><br><br><br><br><br><br>
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en" alt="smebad" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark" alt="smebad" /></p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Social Profiles <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlmM3ZocXR4Z2tlMzByaGk3dnFxdGVuaXR4YjVpbzA5eDRtMjVnayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/gIkM6hiJfvSIIJCnKy/giphy.gif" width="80px">
 <a href="https://pk.linkedin.com/in/syed-ebad-ml" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="smebad"/></a>
