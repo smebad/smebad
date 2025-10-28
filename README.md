@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Syed Muhammad Ebad<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzdDI0ZXM5YWh4NW5wcWptYjVkZ2lhc2puY2xiN2pkYW83NXY4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="70"></h1>
+<h1 align="center">Hi , I'm Ebad<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzdDI0ZXM5YWh4NW5wcWptYjVkZ2lhc2puY2xiN2pkYW83NXY4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="70"></h1>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
@@ -72,7 +72,7 @@
                style="display:block; width:420px; height:auto; border:0;" />
         </p>
         <p style="margin:0;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=smebad&theme=dark"
+          <img src="https://github-readme-streak-stats-eight.vercel.app?user=smebad&theme=dark&date=20251027"
                alt="GitHub Streak"
                style="display:block; width:420px; height:auto; border:0;" />
         </p>
