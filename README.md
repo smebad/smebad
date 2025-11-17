@@ -101,3 +101,4 @@
 <a href="https://leetcode.com/u/smebad/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="smebad"/></a>
 <a href="https://www.kaggle.com/syedmuhammadebad" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="smebad"/></a>
 <a href="https://psnprofiles.com/evilspirit1996" target="blank"><img align="center" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" alt="smebad"/></a>
+<a href="https://youtube.com/@gamlplays" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="smebad"/></a>
