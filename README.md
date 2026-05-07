@@ -1,104 +1,135 @@
-<h1 align="center">Hi , I'm Ebad<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzdDI0ZXM5YWh4NW5wcWptYjVkZ2lhc2puY2xiN2pkYW83NXY4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="70"></h1>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
-- 🎓 Transitioned from **SAP solutions** to **AI/ML engineering**, driven by curiosity for problem-solving.
-- 🧠 Currently focused on **Transformers, RAG-powered apps, and Neural Networks**.
-- 🎯 Building projects that combine **practical applications with deep technical learning**.
-- 🎮 Gamer at heart. I see debugging and boss fights as two sides of the same challenge. ⚔️
-- 📚 Expanding expertise in **GenAI, AI Agents, and Cloud-based AI apps**
-- 🔍 Practicing **Data Structures & Algorithms (DSA)** to strengthen problem-solving skills
-- 🤝 Exploring **open-source contributions** in AI/ML
-
-## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J5aGdkNmN2c2o2bnNlbnl1NW44MGRoejh3NWEwaXB3azF1dTVhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width = 60px></picture> Highlighted Projects
-
-<picture> <img align="right" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width = 300px></picture>
-- 🤖 **PregniSense – Proactive Pregnancy Risk Chatbot**
-  Built with **LlamaIndex + Gemini**, deployed on **Streamlit Cloud**. Proactively asks health questions, retrieves WHO guidelines, and classifies risks (Low/Med/High).
-  🔗 [View Project](https://github.com/smebad/PregniSense)
-
-* 🧩 **Transformer – From Scratch in PyTorch**
-  Implemented the original *“Attention Is All You Need”* paper from scratch. Trained on the OPUS Books dataset using a custom tokenizer.
-  🔗 [View Project](https://github.com/smebad/transformer-from-scratch)
-
-* 📊 **Machine Learning Algorithms – From Scratch**
-  Rebuilt ML algorithms like **Logistic Regression, Naive Bayes, KNN** in Python + NumPy to master their core logic.
-  🔗 [View Project](https://github.com/smebad/Machine-Learning-Algorithms-From-Scratch)
-<br>
-
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 
+<h1 align="center">Hi, I'm Ebad 👋</h1>
 
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flasks" />
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-    <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-	<img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-	<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda">
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="jetbrains" />
+  <b>Agentic AI Engineer • Machine Learning Engineer • LLM & RAG Systems</b>
 </p>
 
-## My GitHub Stats <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Vlc3Q0dGEwZXRjZHBnYm9qc3RxNGphMjZidHd0MGVibWIxdmdmMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width="80px" alt="stats gif">
-<div align="center" style="width:100%; display:flex; justify-content:center; margin-top:16px;">
-  <table cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:90%; max-width:900px; margin: 0 auto; margin-top:10px;">
-    <tr>
-      <td valign="top" align="left" style="padding-right:20px; width:360px;">
-        <p style="margin:0;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smebad&show_icons=true&theme=dark&locale=en&layout=compact"
-               alt="Top Languages"
-               style="display:block; width:420px; height:auto; border:0;" />
-        </p>
-        <p style="margin:0;">
-          <img src="https://github-readme-stats.vercel.app/api?username=smebad&show_icons=true&theme=dark&locale=en"
-               alt="GitHub Stats"
-               style="display:block; width:420px; height:auto; border:0;" />
-        </p>
-        <p style="margin:0;">
-          <img src="https://github-readme-streak-stats-eight.vercel.app?user=smebad&theme=dark&date=20251027"
-               alt="GitHub Streak"
-               style="display:block; width:420px; height:auto; border:0;" />
-        </p>
-      </td>
-      <td valign="top" align="right" style="width:360px;">
-        <p style="margin:0;">
-          <img alt="Coding" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
-               style="display:block; margin:0 auto 8px auto; width:420px; height:auto; border:0;" />
-        </p>
-        <p style="margin:0;">
-          <img alt="Coding" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
-               style="display:block; margin:0 auto; width:420px; height:auto; border:0;" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/smebad"><img src="https://img.shields.io/badge/GitHub-smebad-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/syed-ebad-ml"><img src="https://img.shields.io/badge/LinkedIn-Syed%20Ebad-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/smebad/"><img src="https://img.shields.io/badge/LeetCode-smebad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.kaggle.com/syedmuhammadebad"><img src="https://img.shields.io/badge/Kaggle-syedmuhammadebad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+</p>
 
-<br>
+---
 
-## Social Profiles <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnlmM3ZocXR4Z2tlMzByaGk3dnFxdGVuaXR4YjVpbzA5eDRtMjVnayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/gIkM6hiJfvSIIJCnKy/giphy.gif" width="100px">
-<a href="https://pk.linkedin.com/in/syed-ebad-ml" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="smebad"/></a>
-<a href="https://www.facebook.com/mohammad.ebad.1/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="smebad"/></a>
-<a href="https://www.instagram.com/smebad1996/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" alt="smebad"/></a>
-<a href="https://github.com/smebad" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="smebad"/></a>
-<a href="https://leetcode.com/u/smebad/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="smebad"/></a>
-<a href="https://www.kaggle.com/syedmuhammadebad" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="smebad"/></a>
-<a href="https://psnprofiles.com/evilspirit1996" target="blank"><img align="center" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" alt="smebad"/></a>
-<a href="https://youtube.com/@gamlplays" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="smebad"/></a>
+## About Me
+
+- Building production-ready AI systems with a focus on LLMs, RAG pipelines, and agentic applications.
+- Building practical AI products with **Python, PyTorch, Hugging Face, FastAPI, Streamlit, and SQL**.
+- Interested in **GenAI, AI agents, fine-tuning, and production deployment**.
+- Practicing **DSA** and strengthening fundamentals through from-scratch implementations.
+
+---
+
+## What I Build
+
+- **RAG pipelines** — vector retrieval, embeddings, grounded LLM responses
+- **LLM-powered web apps** — FastAPI + Streamlit, deployed and production-accessible
+- **Transformer systems** — implemented from scratch in PyTorch, not just via APIs
+- **Fine-tuned models** — LoRA, PEFT, domain-specific datasets using Hugging Face
+- **Agentic AI assistants** — multi-turn context, tool use, goal-directed interactions
+
+---
+
+## Featured Projects
+
+### 🤖 PregniSense
+AI-powered pregnancy risk assistant built with **LlamaIndex + Gemini + Streamlit**.  
+Uses retrieval-grounded responses and structured risk classification.  
+[View Project](https://github.com/smebad/PregniSense)
+
+### 🧩 Transformer From Scratch
+Complete **Transformer architecture** implementation in PyTorch, inspired by *Attention Is All You Need*.  
+Built with modular code, custom tokenizer, and sequence modeling training pipeline.  
+[View Project](https://github.com/smebad/transformer-from-scratch)
+
+### 📚 Smart Study Buddy
+LLM-powered document Q&A assistant built with **RAG, embeddings, LangChain, Groq, and ChromaDB**.  
+Answers questions from uploaded study material intelligently.  
+[View Project](https://github.com/smebad/Smart-Study-Buddy)
+
+### 💻 Code Explainer
+FastAPI + LLM app that explains, debugs, and improves code in multiple languages.  
+Deployed on Railway.  
+[View Project](https://github.com/smebad/Code-Explainer)
+
+### 🪄 AI Portfolio Generator
+Streamlit app that generates structured portfolio content from user input using Groq's Llama 3.3-70B.  
+[View Project](https://github.com/smebad/AI-portfolio-generator)
+
+### 🧠 Fine-Tuning Models
+Experimentation repo for open-source LLM fine-tuning, training workflows, and evaluation.  
+[View Project](https://github.com/smebad/Fine-Tuning-Models)
+
+---
+
+## Current Work
+
+### 🏠 Real Estate AI Assistant [View Project](https://github.com/smebad/realtyiq)
+Building a full-stack AI app with:
+- property search and filtering
+- AI-generated property descriptions
+- grounded AI property Q&A
+- SQL-backed listings and customer data
+- predictive ML features
+- FastAPI backend and deployment
+
+### 🛒 ShopGenius AI [View Project](https://github.com/smebad/ShopGenius-AI)
+Building an e-commerce intelligence platform with:
+- product catalog and CRUD
+- AI product descriptions
+- customer support chatbot
+- order and inventory management
+- sales analytics dashboard
+
+---
+
+## Tech Stack
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### GenAI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data / Tools
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Backend / Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=smebad&theme=dark&date=20251027"/> 
+</p>
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/syed-ebad-ml
+- GitHub: https://github.com/smebad
+- LeetCode: https://leetcode.com/u/smebad/
+- Kaggle: https://www.kaggle.com/syedmuhammadebad
