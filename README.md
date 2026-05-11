@@ -32,17 +32,29 @@
 
 ---
 
-## Featured Projects
+## Current Work
 
-### 🤖 PregniSense
-AI-powered pregnancy risk assistant built with **LlamaIndex + Gemini + Streamlit**.  
-Uses retrieval-grounded responses and structured risk classification.  
-[View Project](https://github.com/smebad/PregniSense)
+### 🏠 RealtyIQ [View Project](https://github.com/smebad/realtyiq)
+An end-to-end AI platform for property price prediction, semantic search, and conversational listing intelligence:
+- Price Prediction — XGBoost regression model with SHAP explainability
+- Semantic Search — Embedding-based property search using Sentence Transformers + FAISS
+- AI Assistant — RAG-powered chatbot grounded in real listing data (Hugging Face LLM)
+- REST API — FastAPI backend with full CRUD and inference endpoints
+- Dashboard — Streamlit UI for predictions, search, and chat
+
+---
+
+## Featured Projects
 
 ### 🧩 Transformer From Scratch
 Complete **Transformer architecture** implementation in PyTorch, inspired by *Attention Is All You Need*.  
 Built with modular code, custom tokenizer, and sequence modeling training pipeline.  
 [View Project](https://github.com/smebad/transformer-from-scratch)
+
+### 🤖 PregniSense
+AI-powered pregnancy risk assistant built with **LlamaIndex + Gemini + Streamlit**.  
+Uses retrieval-grounded responses and structured risk classification.  
+[View Project](https://github.com/smebad/PregniSense)
 
 ### 📚 Smart Study Buddy
 LLM-powered document Q&A assistant built with **RAG, embeddings, LangChain, Groq, and ChromaDB**.  
@@ -61,27 +73,6 @@ Streamlit app that generates structured portfolio content from user input using 
 ### 🧠 Fine-Tuning Models
 Experimentation repo for open-source LLM fine-tuning, training workflows, and evaluation.  
 [View Project](https://github.com/smebad/Fine-Tuning-Models)
-
----
-
-## Current Work
-
-### 🏠 Real Estate AI Assistant [View Project](https://github.com/smebad/realtyiq)
-Building a full-stack AI app with:
-- property search and filtering
-- AI-generated property descriptions
-- grounded AI property Q&A
-- SQL-backed listings and customer data
-- predictive ML features
-- FastAPI backend and deployment
-
-### 🛒 ShopGenius AI [View Project](https://github.com/smebad/ShopGenius-AI)
-Building an e-commerce intelligence platform with:
-- product catalog and CRUD
-- AI product descriptions
-- customer support chatbot
-- order and inventory management
-- sales analytics dashboard
 
 ---
 
